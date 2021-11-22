@@ -1,6 +1,6 @@
 - 👋🏿 Hi, I’m @annalisacoleman
 - 👀 I’m interested in HTML, CSS, JavaScript, Webflow, and Shopify.
-- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 🌱 I’m currently learning SQL Server and Python
 - 💞️ I’m looking to collaborate on fun e-commerce projects.
 
 <!---
